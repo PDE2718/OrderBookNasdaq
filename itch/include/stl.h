@@ -1,0 +1,22 @@
+#pragma once
+
+#include <algorithm>
+#include <array>
+#include <cassert>
+#include <cstddef>
+#include <cstdint>
+#include <cstring>
+#include <deque>
+#include <functional>
+#include <initializer_list>
+#include <iterator>
+#include <limits>
+#include <memory>
+#include <optional>
+#include <stdexcept>
+#include <string>
+#include <string_view>
+#include <tuple>
+#include <type_traits>
+#include <utility>
+#include <vector>
